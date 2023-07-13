@@ -28,4 +28,4 @@
 </ul>
 
 <h3> Firebase estructure</h3>
-![alt text](Storage.png "storage")
+![alt text](./Storage.png "storage")
