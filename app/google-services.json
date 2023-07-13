@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561334519400",
+    "project_id": "animex-java",
+    "storage_bucket": "animex-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561334519400:android:0761391e3ccb791e18dddd",
+        "android_client_info": {
+          "package_name": "beltor.caetano.animex_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561334519400-7buatiru7a3kv382bf36io5fe0cc27ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFps4CzryORX8qU5ch7pZ1Biz1D94Z0mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561334519400-7buatiru7a3kv382bf36io5fe0cc27ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
